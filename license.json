@@ -1,5 +1,5 @@
 {
-  "dialog_enable": true,
+  "dialog_enable": false,
   "online_enable": true,
 
   "title": "Premium Login",
@@ -10,7 +10,7 @@
   ],
 
   "button_login": "Login",
-  "button_admin": "Update",
+  "button_admin": "Admin",
   "button_copy": "Copy ID",
   "admin_url": "https://t.me/btsmod",
 
