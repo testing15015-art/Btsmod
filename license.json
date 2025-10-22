@@ -1,6 +1,6 @@
 {
-  "dialog_enable": false,
-  "online_enable": false,
+  "dialog_enable": true,
+  "online_enable": true,
 
   "title": "Premium Login",
   "descriptions": [
