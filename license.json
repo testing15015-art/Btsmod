@@ -26,6 +26,11 @@
       "expire_date": "2026-01-15"
     },
     {
+      "device_id": "d0b4cafc90b82192",
+      "password": "bts",
+      "expire_date": "2026-01-15"
+    },
+    {
       "device_id": "offline-device",
       "password": "1234",
       "expire_date": "2026-01-01"
