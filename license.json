@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d0b4cafc90b82192",
+        "username": "bts2",
+        "password": "mod2",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
