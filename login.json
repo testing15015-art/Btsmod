@@ -4,7 +4,7 @@
         "username": "fuck",
         "password": "you123",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
+        "Allowoffline": "true",
     },
     {
         "device_id": "device456",
